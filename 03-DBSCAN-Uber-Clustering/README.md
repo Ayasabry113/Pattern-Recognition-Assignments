@@ -21,14 +21,6 @@ Expected columns:
 - `Lat`
 - `Lon`
 
-## Project structure
-```text
-03-DBSCAN-Uber-Clustering/
-├── DBSCAN_Uber_Pickup_Clustering.ipynb
-├── README.md
-└── requirements.txt
-```
-
 Place the downloaded CSV beside the notebook when running locally. If you choose to upload the dataset to GitHub, check the file size and GitHub's current file limits first; it is not required to commit the dataset.
 
 ## Run locally
